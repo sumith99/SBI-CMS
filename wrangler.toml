@@ -1,0 +1,9 @@
+name = "wogd-d"
+type = 'webpack'
+account_id = '935fa389ab7cfb9be075faef3d663d01'
+route = ''
+zone_id = ''
+usage_model = ''
+workers_dev = true
+target_type = "webpack"
+site = {bucket = "./public",entry-point = "workers-site"}
